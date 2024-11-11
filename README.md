@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #38](https://github.com/Wiresense/frontend/pull/38) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-2. 🔎 Reviewed [PR #38](https://github.com/Wiresense/frontend/pull/38) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-3. 📝 Committed to [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop/commit/f04da8d8c2a6f8f3c8ea48c50cf9847d3abeace7)
-4. ❌ Closed [PR #7](https://github.com/TheDanniCraft/quickdrop/pull/7) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-5. 🗑️ Deleted a branch `add-locals` in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-6. 🗑️ Deleted a branch `add-metric` in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-7. 🗑️ Deleted a tag `1` in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-8. 📝 Committed to [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop/commit/251ca49aab68cf8e319e823dabdabe2028d0e702)
-9. 🔀 Merged [PR #37](https://github.com/Wiresense/frontend/pull/37) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-10. 🔎 Reviewed [PR #37](https://github.com/Wiresense/frontend/pull/37) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 🔔 Watching [snutij/esport_ics](https://github.com/snutij/esport_ics)
+2. 🔀 Merged [PR #11](https://github.com/TheDanniCraft/quickdrop/pull/11) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+3. ❌ Closed [PR #10](https://github.com/TheDanniCraft/quickdrop/pull/10) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+4. ❌ Closed [PR #9](https://github.com/TheDanniCraft/quickdrop/pull/9) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+5. 🔀 Merged [PR #38](https://github.com/Wiresense/frontend/pull/38) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+6. 🔎 Reviewed [PR #38](https://github.com/Wiresense/frontend/pull/38) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+7. 📝 Committed to [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop/commit/f04da8d8c2a6f8f3c8ea48c50cf9847d3abeace7)
+8. ❌ Closed [PR #7](https://github.com/TheDanniCraft/quickdrop/pull/7) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+9. 🗑️ Deleted a branch `add-locals` in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+10. 🗑️ Deleted a branch `add-metric` in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
