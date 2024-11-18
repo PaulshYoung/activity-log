@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #2](https://github.com/TheDanniCraft/HLTV.JS/pull/2) in [TheDanniCraft/HLTV.JS](https://github.com/TheDanniCraft/HLTV.JS)
-2. 🔀 Merged [PR #6](https://github.com/TheDanniCraft/swatch-studio/pull/6) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
-3. 🔀 Merged [PR #7](https://github.com/TheDanniCraft/Pixcurate/pull/7) in [TheDanniCraft/Pixcurate](https://github.com/TheDanniCraft/Pixcurate)
-4. 🔀 Merged [PR #3](https://github.com/TheDanniCraft/tag-bumper/pull/3) in [TheDanniCraft/tag-bumper](https://github.com/TheDanniCraft/tag-bumper)
-5. 🔔 Watching [snutij/esport_ics](https://github.com/snutij/esport_ics)
-6. 🔀 Merged [PR #11](https://github.com/TheDanniCraft/quickdrop/pull/11) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-7. ❌ Closed [PR #10](https://github.com/TheDanniCraft/quickdrop/pull/10) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-8. ❌ Closed [PR #9](https://github.com/TheDanniCraft/quickdrop/pull/9) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-9. 🔀 Merged [PR #38](https://github.com/Wiresense/frontend/pull/38) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-10. 🔎 Reviewed [PR #38](https://github.com/Wiresense/frontend/pull/38) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 🔀 Merged [PR #8](https://github.com/TheDanniCraft/swatch-studio/pull/8) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
+2. 🔀 Merged [PR #8](https://github.com/TheDanniCraft/Pixcurate/pull/8) in [TheDanniCraft/Pixcurate](https://github.com/TheDanniCraft/Pixcurate)
+3. 🔀 Merged [PR #39](https://github.com/Wiresense/frontend/pull/39) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+4. 🔀 Merged [PR #2](https://github.com/TheDanniCraft/HLTV.JS/pull/2) in [TheDanniCraft/HLTV.JS](https://github.com/TheDanniCraft/HLTV.JS)
+5. 🔀 Merged [PR #6](https://github.com/TheDanniCraft/swatch-studio/pull/6) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
+6. 🔀 Merged [PR #7](https://github.com/TheDanniCraft/Pixcurate/pull/7) in [TheDanniCraft/Pixcurate](https://github.com/TheDanniCraft/Pixcurate)
+7. 🔀 Merged [PR #3](https://github.com/TheDanniCraft/tag-bumper/pull/3) in [TheDanniCraft/tag-bumper](https://github.com/TheDanniCraft/tag-bumper)
+8. 🔔 Watching [snutij/esport_ics](https://github.com/snutij/esport_ics)
+9. 🔀 Merged [PR #11](https://github.com/TheDanniCraft/quickdrop/pull/11) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+10. ❌ Closed [PR #10](https://github.com/TheDanniCraft/quickdrop/pull/10) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
