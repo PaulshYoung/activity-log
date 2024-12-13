@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🌍 Made repository [TheDanniCraft/lichtskulpturenpfad](https://github.com/TheDanniCraft/lichtskulpturenpfad) public
-2. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-12-09` in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-3. 🔀 Merged [PR #41](https://github.com/Wiresense/frontend/pull/41) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-4. 🔎 Reviewed [PR #41](https://github.com/Wiresense/frontend/pull/41) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-5. 🔀 Merged [PR #40](https://github.com/Wiresense/frontend/pull/40) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #23](https://github.com/Wiresense/wiresense.js/pull/23) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔎 Reviewed [PR #23](https://github.com/Wiresense/wiresense.js/pull/23) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 📝 Committed to [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop/commit/c706125220124fad97bd21c9aafb09a8839fa5ef)
-9. 📝 Committed to [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop/commit/e7dd10a75457446a9ae250f40a36ed022c8ee0dc)
-10. 🔀 Merged [PR #22](https://github.com/Wiresense/wiresense.js/pull/22) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+1. 🔀 Merged [PR #12](https://github.com/TheDanniCraft/quickdrop/pull/12) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+2. 🌍 Made repository [TheDanniCraft/lichtskulpturenpfad](https://github.com/TheDanniCraft/lichtskulpturenpfad) public
+3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-12-09` in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+4. 🔀 Merged [PR #41](https://github.com/Wiresense/frontend/pull/41) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+5. 🔎 Reviewed [PR #41](https://github.com/Wiresense/frontend/pull/41) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+6. 🔀 Merged [PR #40](https://github.com/Wiresense/frontend/pull/40) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+7. 🔀 Merged [PR #23](https://github.com/Wiresense/wiresense.js/pull/23) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+8. 🔎 Reviewed [PR #23](https://github.com/Wiresense/wiresense.js/pull/23) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+9. 📝 Committed to [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop/commit/c706125220124fad97bd21c9aafb09a8839fa5ef)
+10. 📝 Committed to [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop/commit/e7dd10a75457446a9ae250f40a36ed022c8ee0dc)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
