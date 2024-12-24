@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #24](https://github.com/Wiresense/wiresense.js/pull/24) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-2. 🔀 Merged [PR #43](https://github.com/Wiresense/frontend/pull/43) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-3. 🔎 Reviewed [PR #43](https://github.com/Wiresense/frontend/pull/43) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-4. 📝 Committed to [TheDanniCraft/lichtskulpturenpfad](https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/381aea023487673d4143244de4ba61fa0bff7203)
-5. 📝 Committed to [TheDanniCraft/lichtskulpturenpfad](https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/73114e8dd4a8989b5086c1e996d9d6b49168e6e3)
-6. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/197cb40ceb9a5c7fc12efb3c73c122c293e868e1)
-7. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/2ead11a88f8fa45996035cb641c6f88a5bbacb7a)
-8. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/7891a0bee69f96ea78f879a8b67ddc372171f035)
-9. 🔀 Merged [PR #3](https://github.com/TheDanniCraft/HLTV.JS/pull/3) in [TheDanniCraft/HLTV.JS](https://github.com/TheDanniCraft/HLTV.JS)
-10. 🔀 Merged [PR #11](https://github.com/TheDanniCraft/swatch-studio/pull/11) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
+1. 🔀 Merged [PR #75](https://github.com/TheDanniCraft/Portfolio/pull/75) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
+2. 🔀 Merged [PR #72](https://github.com/TheDanniCraft/Portfolio/pull/72) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
+3. 🔀 Merged [PR #42](https://github.com/Wiresense/frontend/pull/42) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+4. 🔎 Reviewed [PR #42](https://github.com/Wiresense/frontend/pull/42) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+5. 🔀 Merged [PR #24](https://github.com/Wiresense/wiresense.js/pull/24) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+6. 🔀 Merged [PR #43](https://github.com/Wiresense/frontend/pull/43) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+7. 🔎 Reviewed [PR #43](https://github.com/Wiresense/frontend/pull/43) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+8. 📝 Committed to [TheDanniCraft/lichtskulpturenpfad](https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/381aea023487673d4143244de4ba61fa0bff7203)
+9. 📝 Committed to [TheDanniCraft/lichtskulpturenpfad](https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/73114e8dd4a8989b5086c1e996d9d6b49168e6e3)
+10. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/197cb40ceb9a5c7fc12efb3c73c122c293e868e1)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
