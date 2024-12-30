@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #45](https://github.com/Wiresense/frontend/pull/45) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-2. 🔎 Reviewed [PR #45](https://github.com/Wiresense/frontend/pull/45) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-3. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/a935504c1689281f59b49eed1fa50ff2d6c4ce8b)
-4. 🔀 Merged [PR #44](https://github.com/Wiresense/frontend/pull/44) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-5. 🔎 Reviewed [PR #44](https://github.com/Wiresense/frontend/pull/44) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #74](https://github.com/TheDanniCraft/Portfolio/pull/74) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-7. 🔀 Merged [PR #75](https://github.com/TheDanniCraft/Portfolio/pull/75) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-8. 🔀 Merged [PR #72](https://github.com/TheDanniCraft/Portfolio/pull/72) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-9. 🔀 Merged [PR #42](https://github.com/Wiresense/frontend/pull/42) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-10. 🔎 Reviewed [PR #42](https://github.com/Wiresense/frontend/pull/42) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 🗣 Commented on issue [#9](https://github.com/TheDanniCraft/activity-log/issues/9) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/9#issuecomment-2565787604)
+2. 🗣 Commented on issue [#6](https://github.com/TheDanniCraft/activity-log/issues/6) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/6#issuecomment-2565785401)
+3. 🗣 Commented on issue [#7](https://github.com/TheDanniCraft/activity-log/issues/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/7#issuecomment-2565783262)
+4. 🔀 Merged [PR #45](https://github.com/Wiresense/frontend/pull/45) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+5. 🔎 Reviewed [PR #45](https://github.com/Wiresense/frontend/pull/45) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+6. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/a935504c1689281f59b49eed1fa50ff2d6c4ce8b)
+7. 🔀 Merged [PR #44](https://github.com/Wiresense/frontend/pull/44) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+8. 🔎 Reviewed [PR #44](https://github.com/Wiresense/frontend/pull/44) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+9. 🔀 Merged [PR #74](https://github.com/TheDanniCraft/Portfolio/pull/74) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
+10. 🔀 Merged [PR #75](https://github.com/TheDanniCraft/Portfolio/pull/75) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
