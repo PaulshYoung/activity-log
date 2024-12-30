@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/a935504c1689281f59b49eed1fa50ff2d6c4ce8b)
-2. 🔀 Merged [PR #44](https://github.com/Wiresense/frontend/pull/44) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-3. 🔎 Reviewed [PR #44](https://github.com/Wiresense/frontend/pull/44) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-4. 🔀 Merged [PR #74](https://github.com/TheDanniCraft/Portfolio/pull/74) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-5. 🔀 Merged [PR #75](https://github.com/TheDanniCraft/Portfolio/pull/75) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-6. 🔀 Merged [PR #72](https://github.com/TheDanniCraft/Portfolio/pull/72) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-7. 🔀 Merged [PR #42](https://github.com/Wiresense/frontend/pull/42) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-8. 🔎 Reviewed [PR #42](https://github.com/Wiresense/frontend/pull/42) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 🔀 Merged [PR #24](https://github.com/Wiresense/wiresense.js/pull/24) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-10. 🔀 Merged [PR #43](https://github.com/Wiresense/frontend/pull/43) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 🔀 Merged [PR #45](https://github.com/Wiresense/frontend/pull/45) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+2. 🔎 Reviewed [PR #45](https://github.com/Wiresense/frontend/pull/45) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+3. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/a935504c1689281f59b49eed1fa50ff2d6c4ce8b)
+4. 🔀 Merged [PR #44](https://github.com/Wiresense/frontend/pull/44) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+5. 🔎 Reviewed [PR #44](https://github.com/Wiresense/frontend/pull/44) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+6. 🔀 Merged [PR #74](https://github.com/TheDanniCraft/Portfolio/pull/74) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
+7. 🔀 Merged [PR #75](https://github.com/TheDanniCraft/Portfolio/pull/75) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
+8. 🔀 Merged [PR #72](https://github.com/TheDanniCraft/Portfolio/pull/72) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
+9. 🔀 Merged [PR #42](https://github.com/Wiresense/frontend/pull/42) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+10. 🔎 Reviewed [PR #42](https://github.com/Wiresense/frontend/pull/42) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
