@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2580451247)
-2. 🗣 Commented on issue [#25](https://github.com/TheDanniCraft/activity-log/issues/25) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/25#issuecomment-2580265932)
-3. 🔄 Reopened an issue [#2](https://github.com/TheDanniCraft/quickdrop/issues/2) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-4. ❌ Closed an issue [#2](https://github.com/TheDanniCraft/quickdrop/issues/2) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-5. 🗣 Commented on issue [#24](https://github.com/TheDanniCraft/activity-log/issues/24) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2580060504)
-6. 🔄 Reopened an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
-7. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
-8. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2579088722)
-9. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
-10. 🔄 Reopened an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
+1. 🗣 Commented on issue [#25](https://github.com/TheDanniCraft/activity-log/issues/25) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/25#issuecomment-2581205679)
+2. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2580451247)
+3. 🗣 Commented on issue [#25](https://github.com/TheDanniCraft/activity-log/issues/25) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/25#issuecomment-2580265932)
+4. 🔄 Reopened an issue [#2](https://github.com/TheDanniCraft/quickdrop/issues/2) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+5. ❌ Closed an issue [#2](https://github.com/TheDanniCraft/quickdrop/issues/2) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+6. 🗣 Commented on issue [#24](https://github.com/TheDanniCraft/activity-log/issues/24) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2580060504)
+7. 🔄 Reopened an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
+8. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
+9. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2579088722)
+10. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
