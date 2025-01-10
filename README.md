@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔄 Reopened an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
-2. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
-3. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2579088722)
-4. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
-5. 🔄 Reopened an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
-6. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
-7. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2578094766)
-8. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2575585872)
-9. ❌ Closed an issue [#23](https://github.com/TheDanniCraft/activity-log/issues/23) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-10. 📝 Committed to [TheDanniCraft/TheDanniCraft](https://github.com/TheDanniCraft/TheDanniCraft/commit/f3919c4ca0a0b8488f9b3805bf40b8a612c894ae)
+1. 🔄 Reopened an issue [#2](https://github.com/TheDanniCraft/quickdrop/issues/2) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+2. ❌ Closed an issue [#2](https://github.com/TheDanniCraft/quickdrop/issues/2) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+3. 🗣 Commented on issue [#24](https://github.com/TheDanniCraft/activity-log/issues/24) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2580060504)
+4. 🔄 Reopened an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
+5. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
+6. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2579088722)
+7. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
+8. 🔄 Reopened an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
+9. ❌ Closed an issue [#5](https://github.com/TheDanniCraft/TerminalWebsite/issues/5) in [TheDanniCraft/TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)
+10. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2578094766)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
