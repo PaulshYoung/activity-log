@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2587006775)
-2. 🔔 Watching [oxylabs/how-to-scrape-indeed](https://github.com/oxylabs/how-to-scrape-indeed)
-3. 🗑️ Deleted a branch `fix-multievents` in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-4. 🗑️ Deleted a branch `fix-endless-loop` in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-5. 🗑️ Deleted a branch `follow-community-guidelines` in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-6. ➕ Created a new branch [`11-add-unit-tests-jest`](https://github.com/TheDanniCraft/activity-log/tree/11-add-unit-tests-jest) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-7. 🗣 Commented on issue [#24](https://github.com/TheDanniCraft/activity-log/issues/24) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2584203076)
-8. ➕ Created a new tag [`v0.0.7`](https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-9. 🚀 Published release [`v0.0.7`](https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-10. ❌ Closed an issue [#24](https://github.com/TheDanniCraft/activity-log/issues/24) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+1. 🔎 Reviewed [PR #47](https://github.com/Wiresense/frontend/pull/47) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+2. 🔀 Merged [PR #26](https://github.com/Wiresense/wiresense.js/pull/26) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+3. 🔎 Reviewed [PR #26](https://github.com/Wiresense/wiresense.js/pull/26) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+4. 🗣 Commented on issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2587006775)
+5. 🔔 Watching [oxylabs/how-to-scrape-indeed](https://github.com/oxylabs/how-to-scrape-indeed)
+6. 🗑️ Deleted a branch `fix-multievents` in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+7. 🗑️ Deleted a branch `fix-endless-loop` in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+8. 🗑️ Deleted a branch `follow-community-guidelines` in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+9. ➕ Created a new branch [`11-add-unit-tests-jest`](https://github.com/TheDanniCraft/activity-log/tree/11-add-unit-tests-jest) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+10. 🗣 Commented on issue [#24](https://github.com/TheDanniCraft/activity-log/issues/24) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2584203076)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
