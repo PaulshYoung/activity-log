@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #16](https://github.com/TheDanniCraft/quickdrop/pull/16) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-2. 🔀 Merged [PR #27](https://github.com/Wiresense/wiresense.js/pull/27) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🔀 Merged [PR #48](https://github.com/Wiresense/frontend/pull/48) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-4. 🔎 Reviewed [PR #27](https://github.com/Wiresense/wiresense.js/pull/27) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔎 Reviewed [PR #48](https://github.com/Wiresense/frontend/pull/48) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🗣 Commented on a review of [PR #27](https://github.com/TheDanniCraft/activity-log/pull/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917252976)
-7. 🗣 Commented on a review of [PR #27](https://github.com/TheDanniCraft/activity-log/pull/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917263561)
-8. 🗣 Commented on a review of [PR #27](https://github.com/TheDanniCraft/activity-log/pull/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917311251)
-9. 🗣 Commented on a review of [PR #27](https://github.com/TheDanniCraft/activity-log/pull/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917253984)
-10. 🗣 Commented on a review of [PR #27](https://github.com/TheDanniCraft/activity-log/pull/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917259057)
+1. 🔀 Merged [PR #15](https://github.com/TheDanniCraft/swatch-studio/pull/15) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
+2. 🔀 Merged [PR #16](https://github.com/TheDanniCraft/quickdrop/pull/16) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+3. 🔀 Merged [PR #27](https://github.com/Wiresense/wiresense.js/pull/27) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+4. 🔀 Merged [PR #48](https://github.com/Wiresense/frontend/pull/48) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+5. 🔎 Reviewed [PR #27](https://github.com/Wiresense/wiresense.js/pull/27) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+6. 🔎 Reviewed [PR #48](https://github.com/Wiresense/frontend/pull/48) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+7. 🗣 Commented on a review of [PR #27](https://github.com/TheDanniCraft/activity-log/pull/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917252976)
+8. 🗣 Commented on a review of [PR #27](https://github.com/TheDanniCraft/activity-log/pull/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917263561)
+9. 🗣 Commented on a review of [PR #27](https://github.com/TheDanniCraft/activity-log/pull/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917311251)
+10. 🗣 Commented on a review of [PR #27](https://github.com/TheDanniCraft/activity-log/pull/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917253984)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
