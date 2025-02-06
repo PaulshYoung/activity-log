@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch [`hide-private-details`](https://github.com/TheDanniCraft/activity-log/tree/hide-private-details) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-2. 🗣 Commented on issue [#28](https://github.com/TheDanniCraft/activity-log/issues/28) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2639722340)
-3. 🗣 Commented on issue [#27](https://github.com/TheDanniCraft/activity-log/issues/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/27#issuecomment-2639712910)
-4. 🗣 Commented on issue [#28](https://github.com/TheDanniCraft/activity-log/issues/28) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2639661315)
-5. 🗣 Commented on issue [#28](https://github.com/TheDanniCraft/activity-log/issues/28) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2635455671)
-6. 🔀 Merged [PR #16](https://github.com/TheDanniCraft/swatch-studio/pull/16) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
-7. 🔀 Merged [PR #50](https://github.com/Wiresense/frontend/pull/50) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-8. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/bb00997001f1247e440495f83d877ec8a599576a)
-9. 🔎 Reviewed [PR #50](https://github.com/Wiresense/frontend/pull/50) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-10. 🔀 Merged [PR #29](https://github.com/Wiresense/wiresense.js/pull/29) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+1. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/8ad6deb28efc2de53ce7466d7c67ee99d65ed684)
+2. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/2ad268389b696974e770fc17d02150af330d58c7)
+3. 📥 Opened [PR #29](https://github.com/TheDanniCraft/activity-log/pull/29) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+4. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/bd47882efecf7a28d8301bc3158c67c7d73c2d0e)
+5. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/227765b05d4b3bf1d6f55647a232dae939491f1b)
+6. ➕ Created a new branch [`hide-private-details`](https://github.com/TheDanniCraft/activity-log/tree/hide-private-details) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+7. 🗣 Commented on issue [#28](https://github.com/TheDanniCraft/activity-log/issues/28) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2639722340)
+8. 🗣 Commented on issue [#27](https://github.com/TheDanniCraft/activity-log/issues/27) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/27#issuecomment-2639712910)
+9. 🗣 Commented on issue [#28](https://github.com/TheDanniCraft/activity-log/issues/28) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2639661315)
+10. 🗣 Commented on issue [#28](https://github.com/TheDanniCraft/activity-log/issues/28) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2635455671)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
