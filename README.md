@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #60](https://github.com/Wiresense/frontend/pull/60) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-2. 🔎 Reviewed [PR #60](https://github.com/Wiresense/frontend/pull/60) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-3. 🔀 Merged [PR #37](https://github.com/Wiresense/wiresense.js/pull/37) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔎 Reviewed [PR #37](https://github.com/Wiresense/wiresense.js/pull/37) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #20](https://github.com/TheDanniCraft/swatch-studio/pull/20) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
-6. 🔀 Merged [PR #21](https://github.com/TheDanniCraft/quickdrop/pull/21) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-7. 🔀 Merged [PR #84](https://github.com/TheDanniCraft/Portfolio/pull/84) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-8. 🔀 Merged [PR #59](https://github.com/Wiresense/frontend/pull/59) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/cf2d59b2da0d28251531fd6da0c817f431e76cf0)
-10. 🔀 Merged [PR #30](https://github.com/TheDanniCraft/activity-log/pull/30) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+1. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/a2b9080d60a347b5c81bce929be9797535cb49de)
+2. ➕ Created a new branch [`master`](https://github.com/TheDanniCraft/clipify/tree/master) in [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify)
+3. 🎉 Created a new repository [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify)
+4. 🔀 Merged [PR #60](https://github.com/Wiresense/frontend/pull/60) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+5. 🔎 Reviewed [PR #60](https://github.com/Wiresense/frontend/pull/60) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+6. 🔀 Merged [PR #37](https://github.com/Wiresense/wiresense.js/pull/37) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+7. 🔎 Reviewed [PR #37](https://github.com/Wiresense/wiresense.js/pull/37) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+8. 🔀 Merged [PR #20](https://github.com/TheDanniCraft/swatch-studio/pull/20) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
+9. 🔀 Merged [PR #21](https://github.com/TheDanniCraft/quickdrop/pull/21) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+10. 🔀 Merged [PR #84](https://github.com/TheDanniCraft/Portfolio/pull/84) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
