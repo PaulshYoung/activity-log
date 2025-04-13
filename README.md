@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue [#2403](https://github.com/knadh/listmonk/issues/2403) in [knadh/listmonk](https://github.com/knadh/listmonk)
-2. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/a2b9080d60a347b5c81bce929be9797535cb49de)
-3. ➕ Created a new branch [`master`](https://github.com/TheDanniCraft/clipify/tree/master) in [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify)
-4. 🎉 Created a new repository [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify)
-5. 🔀 Merged [PR #60](https://github.com/Wiresense/frontend/pull/60) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔎 Reviewed [PR #60](https://github.com/Wiresense/frontend/pull/60) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-7. 🔀 Merged [PR #37](https://github.com/Wiresense/wiresense.js/pull/37) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔎 Reviewed [PR #37](https://github.com/Wiresense/wiresense.js/pull/37) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-9. 🔀 Merged [PR #20](https://github.com/TheDanniCraft/swatch-studio/pull/20) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
-10. 🔀 Merged [PR #21](https://github.com/TheDanniCraft/quickdrop/pull/21) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+1. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/7c68fa1320c86a4eeb7482e1f7a762cd9337ea78)
+2. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/e5c9fec4250bd36f59e32d2616ac9408601dd3f2)
+3. 🆕 Opened an issue [#2403](https://github.com/knadh/listmonk/issues/2403) in [knadh/listmonk](https://github.com/knadh/listmonk)
+4. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/a2b9080d60a347b5c81bce929be9797535cb49de)
+5. ➕ Created a new branch [`master`](https://github.com/TheDanniCraft/clipify/tree/master) in [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify)
+6. 🎉 Created a new repository [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify)
+7. 🔀 Merged [PR #60](https://github.com/Wiresense/frontend/pull/60) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+8. 🔎 Reviewed [PR #60](https://github.com/Wiresense/frontend/pull/60) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+9. 🔀 Merged [PR #37](https://github.com/Wiresense/wiresense.js/pull/37) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+10. 🔎 Reviewed [PR #37](https://github.com/Wiresense/wiresense.js/pull/37) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
