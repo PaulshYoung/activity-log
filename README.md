@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/aa1824edb23724daf4cb64520a0bfbae333ce234)
-2. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/b8b055565dc0d1fee719d57796248a9ebe8d8a45)
-3. 🔀 Merged [PR #64](https://github.com/Wiresense/frontend/pull/64) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-4. 🔀 Merged [PR #39](https://github.com/Wiresense/wiresense.js/pull/39) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔎 Reviewed [PR #39](https://github.com/Wiresense/wiresense.js/pull/39) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-6. 🔀 Merged [PR #63](https://github.com/Wiresense/frontend/pull/63) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-7. 🔀 Merged [PR #38](https://github.com/Wiresense/wiresense.js/pull/38) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔀 Merged [PR #62](https://github.com/Wiresense/frontend/pull/62) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/6100afc8dee53406effd6153be8011b61a921b50)
-10. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/ab0b4f4341e168f03652fe7fe085d78051050019)
+1. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/f0b0264c0cd3a0700347b036b8a6ecc5762ec106)
+2. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/427013e0afdf8b546de2ba71bb5ea090a7fa991c)
+3. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/aa1824edb23724daf4cb64520a0bfbae333ce234)
+4. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/b8b055565dc0d1fee719d57796248a9ebe8d8a45)
+5. 🔀 Merged [PR #64](https://github.com/Wiresense/frontend/pull/64) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+6. 🔀 Merged [PR #39](https://github.com/Wiresense/wiresense.js/pull/39) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+7. 🔎 Reviewed [PR #39](https://github.com/Wiresense/wiresense.js/pull/39) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+8. 🔀 Merged [PR #63](https://github.com/Wiresense/frontend/pull/63) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+9. 🔀 Merged [PR #38](https://github.com/Wiresense/wiresense.js/pull/38) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+10. 🔀 Merged [PR #62](https://github.com/Wiresense/frontend/pull/62) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
