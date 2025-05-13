@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📥 Opened [PR #41](https://github.com/Wiresense/wiresense.js/pull/41) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-2. 📝 Committed to [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js/commit/697d190de56abd19567aee58079191056c53e597)
-3. ➕ Created a new branch [`alert-autofix-1`](https://github.com/Wiresense/wiresense.js/tree/alert-autofix-1) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔀 Merged [PR #40](https://github.com/Wiresense/wiresense.js/pull/40) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #65](https://github.com/Wiresense/frontend/pull/65) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🆕 Opened an issue [#20](https://github.com/dcodesdev/LetterSpace/issues/20) in [dcodesdev/LetterSpace](https://github.com/dcodesdev/LetterSpace)
-7. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/a992bf065b1922c572fd9ab1047941fb5c710e68)
-8. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/7e4a4c90c08416f3f94964d257ae1619de7aa681)
-9. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/ed6dc5d0fa59536ea4d7007c6065472ed58ee3ed)
-10. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/6dabb0d47419657742e164defde0b4a2d0b177f8)
+1. 🔀 Merged [PR #66](https://github.com/Wiresense/frontend/pull/66) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+2. 📥 Opened [PR #41](https://github.com/Wiresense/wiresense.js/pull/41) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+3. 📝 Committed to [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js/commit/697d190de56abd19567aee58079191056c53e597)
+4. ➕ Created a new branch [`alert-autofix-1`](https://github.com/Wiresense/wiresense.js/tree/alert-autofix-1) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+5. 🔀 Merged [PR #40](https://github.com/Wiresense/wiresense.js/pull/40) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
+6. 🔀 Merged [PR #65](https://github.com/Wiresense/frontend/pull/65) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+7. 🆕 Opened an issue [#20](https://github.com/dcodesdev/LetterSpace/issues/20) in [dcodesdev/LetterSpace](https://github.com/dcodesdev/LetterSpace)
+8. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/a992bf065b1922c572fd9ab1047941fb5c710e68)
+9. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/7e4a4c90c08416f3f94964d257ae1619de7aa681)
+10. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/ed6dc5d0fa59536ea4d7007c6065472ed58ee3ed)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
