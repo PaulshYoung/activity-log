@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/c9f1607e87d5a01784a8471e5c99c09610618083)
-2. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/3fc3c3762d9800e2c2c87d388c083055a2b517a4)
-3. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/b6a2e64c76dac0d9ab343237a578c0b3aec205a4)
-4. 🔀 Merged [PR #21](https://github.com/TheDanniCraft/swatch-studio/pull/21) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
-5. 🔀 Merged [PR #6](https://github.com/TheDanniCraft/HLTV.JS/pull/6) in [TheDanniCraft/HLTV.JS](https://github.com/TheDanniCraft/HLTV.JS)
-6. 🔀 Merged [PR #22](https://github.com/TheDanniCraft/quickdrop/pull/22) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-7. ❌ Closed [PR #19](https://github.com/TheDanniCraft/quickdrop/pull/19) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
-8. ❌ Closed [PR #18](https://github.com/TheDanniCraft/swatch-studio/pull/18) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
-9. 🔀 Merged [PR #5](https://github.com/TheDanniCraft/HLTV.JS/pull/5) in [TheDanniCraft/HLTV.JS](https://github.com/TheDanniCraft/HLTV.JS)
-10. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/9abbf8caf839511a8d109554f7dd849d38d1bb10)
+1. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/cd96ed2b06ed8744057aebcd0a07a97d3c160f20)
+2. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/c9f1607e87d5a01784a8471e5c99c09610618083)
+3. 📝 Committed to [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio/commit/3fc3c3762d9800e2c2c87d388c083055a2b517a4)
+4. 📝 Committed to [TheDanniCraft/clipify](https://github.com/TheDanniCraft/clipify/commit/b6a2e64c76dac0d9ab343237a578c0b3aec205a4)
+5. 🔀 Merged [PR #21](https://github.com/TheDanniCraft/swatch-studio/pull/21) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
+6. 🔀 Merged [PR #6](https://github.com/TheDanniCraft/HLTV.JS/pull/6) in [TheDanniCraft/HLTV.JS](https://github.com/TheDanniCraft/HLTV.JS)
+7. 🔀 Merged [PR #22](https://github.com/TheDanniCraft/quickdrop/pull/22) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+8. ❌ Closed [PR #19](https://github.com/TheDanniCraft/quickdrop/pull/19) in [TheDanniCraft/quickdrop](https://github.com/TheDanniCraft/quickdrop)
+9. ❌ Closed [PR #18](https://github.com/TheDanniCraft/swatch-studio/pull/18) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
+10. 🔀 Merged [PR #5](https://github.com/TheDanniCraft/HLTV.JS/pull/5) in [TheDanniCraft/HLTV.JS](https://github.com/TheDanniCraft/HLTV.JS)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
